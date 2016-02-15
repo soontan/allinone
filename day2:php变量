@@ -1,0 +1,27 @@
+php变量
+
+"$"
+
+PHP变量名称对大小写敏感,变量名不能以数字字符开头
+
+static 静态变量
+
+global 全局变量
+
+php超全局变量
+*$GLOBALS
+*$_SERVER
+*$_POST
+*$_GET
+*$_COOKIE
+*$_SESSION
+$_REQUEST
+$_FILES
+$_ENV
+
+可变变量
+/*
+$a='hello';
+$$a='world';
+then $hello value is 'world'.
+*/
