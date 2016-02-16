@@ -40,9 +40,18 @@ echo "<pre>";//pre output in lines
 
 echo $a,'<br />',$b,'<br />',$c,'<br />',$d,'<br />',$e,'<br />',$f,'<br />',$h,'<br />';//$c-array,$h-1
 echo $g,'<br />';//no result
+
+echo $c['0'],'<br />';//xxxzzz
+echo $c[0],'<br />';//xxxzzz
 echo $c['key1'],'<br />';//abc
 echo $c[key1],'<br />';//abc,error notice-assumed key
 echo $c["key1"],'<br />';//abc
+
+define('yyy','key1');
+
+echo $c['yyy'],'<br />';//error notice-undefinded index-yyy
+echo $c[yyy],'<br />';//abc
+echo $c["yyy"],'<br />';//error notice-undefinded index-yyy
 
 var_dump($a,$b,$c,$d,$e,$f,$g,$h);
 echo '<br />';
@@ -67,7 +76,6 @@ print_r($b);//hao
 echo '<br />';
 print_r($h);//1
 echo '<br />';
-
 
 $res=print_r($c,true);//no result
 echo $res;//$c
