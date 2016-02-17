@@ -44,7 +44,7 @@ var_dump(true || false);
 echo'<br />';
 var_dump(!true);
 echo'<br />';
-var_dump(true & $a++);//0
+var_dump(true & $a++);//单数1，复数0-?
 echo $a;//223
 echo'<br />';
 var_dump(true and false || true);//priority-&&-&-and-短路效果
