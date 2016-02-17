@@ -1,3 +1,5 @@
+<?php
+/*
 PHP共有8中数据类型
 
 四种标量类型：
@@ -22,9 +24,8 @@ print_r 数组
 printf 格式化输出
 sprintf 赋值
 var_dump 类型和内容
+*/
 
-/*
-<?php
 $a=1;
 $b='hao';
 $c=array('key0'=>2,'key1'=>'abc','xxxzzz');
@@ -82,4 +83,3 @@ echo $res;//$c
 
 echo '</pre>';
 ?>
-*/
