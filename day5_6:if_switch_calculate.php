@@ -53,8 +53,6 @@ switch ($c) {
 if-elseif-else
 switch-case-default..break..(continue)
 */
-$result=0;
-
 if (empty($_GET['numone']) || empty($_GET['numtwo']) || empty($_GET['cal'])) {
 	$result='all must be filled in';
 }else{
