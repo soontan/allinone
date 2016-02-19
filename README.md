@@ -3,4 +3,4 @@
 [day2:php变量](https://github.com/soontan/allinone/blob/master/day2:php%E5%8F%98%E9%87%8F)  
 [day3:php数据类型及输出.php](https://github.com/soontan/allinone/blob/master/day3:php%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E8%BE%93%E5%87%BA.php)  
 [day4:php运算符.php](https://github.com/soontan/allinone/blob/master/day4:php%E8%BF%90%E7%AE%97%E7%AC%A6.php)  
-[day:if_switch_calculate.php](https://github.com/soontan/allinone/blob/master/day:if_switch_calculate.php)  
+[day5_6:if_switch_calculate.php](https://github.com/soontan/allinone/blob/master/day5_6:if_switch_calculate.php)  
