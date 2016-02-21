@@ -5,3 +5,4 @@
 [day4:php运算符.php](https://github.com/soontan/allinone/blob/master/day4:php%E8%BF%90%E7%AE%97%E7%AC%A6.php)  
 [day5_6:if_switch_calculate.php](https://github.com/soontan/allinone/blob/master/day5_6:if_switch_calculate.php)  
 [day6:while_for.php](https://github.com/soontan/allinone/blob/master/day6:while_for.php)  
+[day7.function.php](https://github.com/soontan/allinone/blob/master/day7.function.php)  
