@@ -6,3 +6,4 @@
 [day5_6:if_switch_calculate.php](https://github.com/soontan/allinone/blob/master/day5_6:if_switch_calculate.php)  
 [day6:while_for.php](https://github.com/soontan/allinone/blob/master/day6:while_for.php)  
 [day7.function.php](https://github.com/soontan/allinone/blob/master/day7.function.php)  
+[day8.array.php](https://github.com/soontan/allinone/blob/master/day8.array.php)  
