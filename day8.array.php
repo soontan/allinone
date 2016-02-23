@@ -3,6 +3,7 @@
 array
 foreach
 reset();next();prev();end();current();key();
+*****array func 1键值2计数3回调作用4排序5加减改造6堆栈队列
 */
 $a=array('5'=>5,6,7,'one'=>'str',$b=array(11,12,array(13,14)));
 define('ttt','sss');
