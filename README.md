@@ -7,3 +7,4 @@
 [day6:while_for.php](https://github.com/soontan/allinone/blob/master/day6:while_for.php)  
 [day7.function.php](https://github.com/soontan/allinone/blob/master/day7.function.php)  
 [day8.array.php](https://github.com/soontan/allinone/blob/master/day8.array.php)  
+[day9.object.php](https://github.com/soontan/allinone/blob/master/day9.object.php)  
