@@ -30,12 +30,12 @@ class feel{
 }
 
 $play=new feel();//I-hate-you
-$play=new feel();//I-hate-you,don't force to close
-$play->pi='who';//I---love---you,force to close
+$play=new feel('you');//you-hate-you,I---love---you,force to close up one
+$play->pi='who';
 $play->change();//who--have no feeling with--you
 $play=7;//who---love---you,force to close
 echo "<pre>";
-var_dump($play=new feel('we','know','them'));//1.we-know-them,2.var_dump
+var_dump($play=new feel('we','know','them'));//1.we-know-them,2.var_dump-#2
 $play=null;//we---love---them,force to close
 $play=new feel();//I-hate-you
 $play->change();//I--have no feeling with--you
