@@ -8,3 +8,4 @@
 [day7.function.php](https://github.com/soontan/allinone/blob/master/day7.function.php)  
 [day8.array.php](https://github.com/soontan/allinone/blob/master/day8.array.php)  
 [day9.object.php](https://github.com/soontan/allinone/blob/master/day9.object.php)  
+[day10:html1.php](https://github.com/soontan/allinone/blob/master/day10:html1.php)  
