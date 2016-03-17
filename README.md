@@ -12,3 +12,4 @@
 [day11:html_form.php](https://github.com/soontan/allinone/blob/master/day11:html_form.php)  
 [day12.Kaprekar_constant.php](https://github.com/soontan/allinone/blob/master/day12.Kaprekar_constant.php)  
 [day13:simpletextwrite.php](https://github.com/soontan/allinone/blob/master/day13:simpletextwrite.php)  
+[day14:simplesrpgame.php](https://github.com/soontan/allinone/blob/master/day14:simplesrpgame.php)  
