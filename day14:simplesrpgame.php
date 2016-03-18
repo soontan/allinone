@@ -1,4 +1,6 @@
 <?php
+//there's only three equal-possible results, so rand three numbers and print will be the easiest cheat way
+//another bright thought is to compare with the keys or strs, really clever
 $solid=array('s'=>'scissor','r'=>'rock','p'=>'paper');
 $com=NULL;
 $result=NULL;
