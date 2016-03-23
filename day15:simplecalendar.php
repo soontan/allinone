@@ -17,7 +17,7 @@ $numoffirst=date('w',strtotime("$year-$month-1"));
 32位系统php5.0版本后超出时间范围解决办法
 $d="$year-$month-1";
 $dd=new DateTime($d);
-$dd->format('Y-m-d');
+//$dd->format('Y-m-d');
 $numofdays=$dd->format('t');
 $numoffirst=$dd->format('w');
 */
