@@ -13,6 +13,14 @@ if(empty($_GET['year']) || empty($_GET['month'])){
 $numofdays=date('t',strtotime("$year-$month-1"));
 //获取第一天是星期几
 $numoffirst=date('w',strtotime("$year-$month-1"));
+/*
+32位系统php5.0版本后超出时间范围解决办法
+$d="$year-$month-1";
+$dd=new DateTime($d);
+$dd->format('Y-m-d');
+$numofdays=$dd->format('t');
+$numoffirst=$dd->format('w');
+*/
 //echo $year.'--'.$month.'--'.$numofdays.'--'.$numoffirst;
 ?>
 <!DOCTYPE html>
