@@ -1,6 +1,5 @@
 <?php
 //[]()数组多结果及多层结果多重匹配
-//
 
 $str='http://soontan.org/';
 $preg='/[a-z]*:\/\/[a-z]*\.[a-z]*\//';
@@ -24,6 +23,5 @@ echo "<br />";
 $preg1='/(.*)([^0-9a-z]*)(.*)(\.)(.*)/';
 preg_match($preg1,$str,$arr1);
 print_r($arr1);
-
 
 ?>
