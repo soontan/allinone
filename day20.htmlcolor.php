@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>颜色编码-颜色名称-16位颜色编码-rgb颜色对照</title>
+    <title>颜色对照表-颜色名称-16位颜色编码-rgb颜色对照</title>
     <meta http-equiv="content-type" content="text/html;charset=utf-8">
     <style type="text/css">
     h1,th{text-align:center;font-family:Microsoft Yahei,sans-serif;}
@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<h1>颜色对照表</h1>
+<h1>颜色对照表-颜色名称-16位颜色编码-rgb颜色对照</h1>
 <table>
         <tr>
             <th>颜色效果</th>
