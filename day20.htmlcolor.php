@@ -140,8 +140,8 @@
             <td>186,85,211</td>
         </tr>
         <tr>
-            <td bgcolor="#da00e0">　</td>
-            <td>DarkVoilet</td>
+            <td bgcolor="#9400d3">　</td>
+            <td>DarkViolet</td>
             <td>深紫罗兰色</td>
             <td>#9400D3</td>
             <td>148,0,211</td>
@@ -280,7 +280,7 @@
             <td>112,128,144</td>
         </tr>
         <tr>
-            <td bgcolor="#d0e000">　</td>
+            <td bgcolor="#1e90ff">　</td>
             <td>DoderBlue</td>
             <td>道奇蓝</td>
             <td>#1E90FF</td>
@@ -427,37 +427,37 @@
             <td>64,224,208</td>
         </tr>
         <tr>
-            <td bgcolor="#a0a000">　</td>
-            <td>Auqamarin</td>
+            <td bgcolor="#7fffd4">　</td>
+            <td>Aquamarine</td>
             <td>绿玉\碧绿色</td>
-            <td>#7FFFAA</td>
-            <td>127,255,170</td>
+            <td>#7FFFD4</td>
+            <td>127,255,212</td>
         </tr>
         <tr>
             <td bgcolor="#66cdaa">　</td>
             <td>MediumAquamarine</td>
             <td>适中的碧绿色</td>
-            <td>#00FA9A</td>
-            <td>0,250,154</td>
+            <td>#66CDAA</td>
+            <td>102,205,170</td>
         </tr>
         <tr>
             <td bgcolor="#00fa9a">　</td>
             <td>MediumSpringGreen</td>
             <td>适中的春天的绿色</td>
-            <td>#F5FFFA</td>
-            <td>245,255,250</td>
-        </tr>
-        <tr>
-            <td bgcolor="#f5fffa">　</td>
-            <td>MintCream</td>
-            <td>薄荷奶油</td>
-            <td>#00FF7F</td>
-            <td>0,255,127</td>
+            <td>#00FA9A</td>
+            <td>0,250,154</td>
         </tr>
         <tr>
             <td bgcolor="#00ff7f">　</td>
             <td>SpringGreen</td>
-            <td>春天的绿色</td>
+            <td>春绿色</td>
+            <td>#00FF7F</td>
+            <td>0,255,127</td>
+        </tr>
+        <tr>
+            <td bgcolor="#3cb371">　</td>
+            <td>MediumSeaGreen</td>
+            <td>中海蓝</td>
             <td>#3CB371</td>
             <td>60,179,113</td>
         </tr>
@@ -557,15 +557,15 @@
             <td bgcolor="#6b8e23">　</td>
             <td>OliveDrab</td>
             <td>橄榄土褐色</td>
-            <td>#556B2F</td>
-            <td>85,107,47</td>
+            <td>#6B8E23</td>
+            <td>107,142,35</td>
         </tr>
         <tr>
             <td bgcolor="#f5f5dc">　</td>
             <td>Beige</td>
             <td>米色(浅褐色)</td>
-            <td>#6B8E23</td>
-            <td>107,142,35</td>
+            <td>#F5F5DC</td>
+            <td>245,245,200</td>
         </tr>
         <tr>
             <td bgcolor="#fafad2">　</td>
@@ -617,7 +617,7 @@
             <td>255,250,205</td>
         </tr>
         <tr>
-            <td bgcolor="#a00d00">　</td>
+            <td bgcolor="#eee8aa">　</td>
             <td>PaleGodenrod</td>
             <td>灰秋麒麟</td>
             <td>#EEE8AA</td>
@@ -638,7 +638,7 @@
             <td>255,215,0</td>
         </tr>
         <tr>
-            <td bgcolor="#c00000">　</td>
+            <td bgcolor="#fff8dc">　</td>
             <td>Cornislk</td>
             <td>玉米色</td>
             <td>#FFF8DC</td>
@@ -722,7 +722,7 @@
             <td>210,180,140</td>
         </tr>
         <tr>
-            <td bgcolor="#b00000">　</td>
+            <td bgcolor="#deb887">　</td>
             <td>BrulyWood</td>
             <td>结实的树</td>
             <td>#DEB887</td>
