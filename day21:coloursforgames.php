@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-  	<meta content="width=device-width,user-scalable=no" name="viewport">
+  <meta content="width=device-width,user-scalable=no" name="viewport">
   <head>
     <title>几个游戏配色</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
