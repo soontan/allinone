@@ -19,3 +19,4 @@
 [day18.filestart.php](https://github.com/soontan/allinone/blob/master/day18.filestart.php)  
 [day19.simplesql.php](https://github.com/soontan/allinone/blob/master/day19.simplesql.php)  
 [day20.htmlcolor.php](https://github.com/soontan/allinone/blob/master/day20.htmlcolor.php)  
+[day21:coloursforgames.php](https://github.com/soontan/allinone/blob/master/day21:coloursforgames.php)  
